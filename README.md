@@ -18,7 +18,7 @@
 14. For practical work, create buttons that do the following:
     -changes the appearance of the given page;
     -creates new elements on the page;
-15. * Create a "blog" section where the data is stored either in the DB or in a file;
+15. *Create a "blog" section where the data is stored either in the DB or in a file;
 16. Produce some creative demonstration of your skills that are not described in this list of requirements.
 
-* This point might be missing because databases are one of the last topics we cover and we might not make it. We will agree on that when the end is near.
+*This point might be missing because databases are one of the last topics we cover and we might not make it. We will agree on that when the end is near.
