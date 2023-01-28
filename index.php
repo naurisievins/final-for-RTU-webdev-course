@@ -29,10 +29,10 @@
     <div class="dropdown">
         <button class="dropbtn"><?php echo $lang['menu'];?><i class="fa fa-caret-down dropbtn2"></i></button>
         <div class="dropdown-content">
-            <a href="http://localhost/majasdarbs/index.php"><?php echo $lang['home'];?></a>
-            <a href="http://localhost/majasdarbs/contact.php"><?php echo $lang['contact'];?></a>
-            <a href="http://localhost/majasdarbs/practic.php"><?php echo $lang['practice'];?></a>
-            <a href="http://localhost/majasdarbs/blog.php"><?php echo $lang['blog'];?></a>
+            <a href="index.php"><?php echo $lang['home'];?></a>
+            <a href="contact.php"><?php echo $lang['contact'];?></a>
+            <a href="practic.php"><?php echo $lang['practice'];?></a>
+            <a href="blog.php"><?php echo $lang['blog'];?></a>
         </div>
     </div>
   </div>
